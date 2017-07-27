@@ -1,0 +1,34 @@
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.vbprojResolveAssemblyReference.cache
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.RathodFinalProject.resources
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.Resources.resources
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.vbproj.GenerateResource.Cache
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.MenuForm.resources
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.SaladsForm.resources
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.SandWitchForm.resources
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.DesertsForm.resources
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.SnacksForm.resources
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.SplashScreen1.resources
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\bin\Debug\McDonolds - Place an Order.exe.config
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\bin\Debug\McDonolds - Place an Order.exe
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\bin\Debug\McDonolds - Place an Order.pdb
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\bin\Debug\McDonolds - Place an Order.xml
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\McDonolds - Place an Order.exe
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\McDonolds - Place an Order.xml
+A:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\McDonolds - Place an Order.pdb
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\McDonolds - Place an Order.exe
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\McDonolds - Place an Order.xml
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\McDonolds - Place an Order.pdb
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\bin\Debug\McDonolds - Place an Order.exe.config
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\bin\Debug\McDonolds - Place an Order.exe
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\bin\Debug\McDonolds - Place an Order.pdb
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\bin\Debug\McDonolds - Place an Order.xml
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.vbprojResolveAssemblyReference.cache
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.DesertsForm.resources
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.MenuForm.resources
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.RathodFinalProject.resources
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.Resources.resources
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.SaladsForm.resources
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.SandWitchForm.resources
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.SnacksForm.resources
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.SplashScreen1.resources
+D:\P.S.R\MS\PSR VB\Project\RathodFinalProject\RathodFinalProject\obj\Debug\RathodFinalProject.vbproj.GenerateResource.Cache
